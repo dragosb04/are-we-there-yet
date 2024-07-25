@@ -41,6 +41,6 @@
 		"windicss": "^3.5.1"
 	},
 	"dependencies": {
-		"vite": "2.8.6"
+		"node": "18.x"
 	}
 }
